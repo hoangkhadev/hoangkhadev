@@ -1,16 +1,16 @@
-#### ❙ Hi everyone 👋
+#### ✘ Hi everyone 👋
 
 - 📝 I’m Kha Tran Hoang from Vietnam.
 - 📫 How to reach me: hoangkhadev@gmail.com.
 - ⚡ Fun fact: I'm always learning more and sharing more!
 
-#### ❙ Spotify Playing 🎧
+#### ✘ Spotify Playing 🎧
 
 ![spotify-github-profile](/svg/spotify.svg)
 
 <hr>
 
-#### ❙ Tech Stack 💻
+#### ✘ Tech Stack 💻
 
 - **Tools** 🛠
 
@@ -44,7 +44,7 @@
 <br>
 <hr>
   
-####  ❙ GitHub Status 🔥
+####  ✘ GitHub Status 🔥
   <div align=center>
     <a href="#" title="Hoangkhadev">
       <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangkhadev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -60,7 +60,7 @@
   <br>
   <hr>
   
-#### ❙ Socials 🌐
+#### ✘ Socials 🌐
 
 ## [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100064446060973) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kha-tran-hoang-977220316)
 
