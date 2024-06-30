@@ -16,9 +16,11 @@
 
   <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/xampp-282C34?logo=xampp&logoColor=FB7A24" alt="xampp logo" title="xampp" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/xampp-282C34?logo=xampp&logoColor=FB7A24" alt="xampp logo" title="XAMPP" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/nginx-282C34?logo=nginx&logoColor=009639" alt="nginx logo" title="NGINX" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" /></span>
   &nbsp;
    <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
   &nbsp;
@@ -27,9 +29,9 @@
 
   <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=00DC82" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Tailwindcss-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwindcss logo" title="Tailwindcss" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
   &nbsp;
@@ -37,8 +39,6 @@
 - Databases
 
   <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
   &nbsp;
    <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
   &nbsp;
