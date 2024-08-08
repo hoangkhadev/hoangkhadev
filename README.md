@@ -21,14 +21,27 @@
   <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" /></span>
   &nbsp;
 
-- Libraries and Frameworks ⚙
+- Languages, Libraries and Frameworks ⚙
 
+  <span><img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+  &nbsp;
+   <span><img src="https://img.shields.io/badge/Javascript-282C34?logo=javascript&logoColor=F7DF1E" alt="Javascript logo" title="Javascript" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></span>
+  &nbsp;
   <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
   &nbsp;
+  <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=000000" alt="Next.js logo" title="Next.js" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+  &nbsp;
   <span><img src="https://img.shields.io/badge/Tailwindcss-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwindcss logo" title="Tailwindcss" height="25" /></span>
   &nbsp;
+  
 
 - Databases
 
@@ -54,8 +67,5 @@
   <br>
   <hr>
   
-#### ✘ Socials 🌐
-
-## [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100064446060973) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kha-tran-hoang-977220316)
 
 [![](https://visitcount.itsvg.in/api?id=hoangkhadev&icon=0&color=0)](https://visitcount.itsvg.in)
